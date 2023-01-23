@@ -1,0 +1,1 @@
+From staging area, back to working directory, with "Git Reset file_name
